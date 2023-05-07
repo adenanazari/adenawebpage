@@ -1,0 +1,28 @@
+/* =================
+  WRITE YOUR CSS HERE.
+  Check the ⌄ for help with formatting and validating your code.
+  You must write some CSS to complete this challenge.
+   ===================
+*/
+html,
+body {
+  margin: auto;
+  height: 100%;
+  background-color: pink;
+    font-family: 'Times New Roman';
+    color: #ffffff;
+}
+h1, h2, h3, h4, p {
+    text-shadow: 0 0 0.5px white;
+  color: black;
+  margin-left: 3%;
+  
+  
+}
+
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
